@@ -1,2 +1,6 @@
 New Plant Diseases Dataset(Augmented)/
 resnet50_coco_best_v2.1.0.h5
+inputs/
+models/
+outputs/
+ob_det/yolov3.weights
