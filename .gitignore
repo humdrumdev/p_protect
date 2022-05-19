@@ -3,3 +3,7 @@ resnet50_coco_best_v2.1.0.h5
 test_set/
 plant-disease-model-complete.pth
 plant-disease-model.pth
+inputs/
+models/
+outputs/
+ob_det/yolov3.weights
