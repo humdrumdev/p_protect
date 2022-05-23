@@ -34,7 +34,6 @@ const get_program_input = async (size) => {
 		result.error = err.message;
 	else
 	{
-		result.error = null;
 		result.stdout = ret.stdout;
 		result.stderr = ret.stderr;
 	}
